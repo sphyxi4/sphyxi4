@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jerome Infante</h1>
+<h1 align="center">Hi 👋, I'm Asphyxia</h1>
 <h3 align="center">A passionate Programmer from Philippines</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sphyxi4&label=Profile%20views&color=0e75b6&style=flat" alt="sphyxi4" /> </p>
@@ -7,9 +7,6 @@
 
 - 💬 Ask me about **JS, Python, and Java**
 
-- 📫 How to reach me **jeromeinfante0506@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
